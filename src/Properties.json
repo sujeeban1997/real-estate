@@ -1,0 +1,132 @@
+{
+    "properties": [
+        {
+            "id": 1,
+            "name": "Colombo Property",
+            "category": "House",
+            "bedrooms": 3,
+            "price": 750000,
+            "tenure": "Freehold",
+            "description": "Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
+            "location": "Petts Wood Road, Petts Wood, Orpington",
+            "floor": "https://img.freepik.com/free-vector/illustration-house-planning_53876-18172.jpg?w=1060&t=st=1705332723~exp=1705333323~hmac=72c98f99916a50466eef853b484d434b3a3d555e031af85db8773496e201ca1f",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15844.12520021284!2d79.85752067931527!3d6.886854332956501!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae25bd043c13a73%3A0x48d05e03ef2ef383!2sColombo%20Property!5e0!3m2!1sen!2slk!4v1705336002675!5m2!1sen!2slk",
+                "imgSrc": "https://markstewart.com/wp-content/uploads/2020/06/MODERN-HOUSE-PLAN-MODERN-SEVEN-MM-2659-FRONT-VIEW-scaled.jpg",
+            "added": {
+                "month": "October",
+                "day": 12,
+                "year": 2022
+            }
+        },
+        {
+            "id": 2,
+            "imgSrc": "https://vinayakproperties.co.in/wp-content/uploads/2022/04/flat.jpg",
+            "name": "Victoria Golf Resort",
+            "category": "Flat",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.79091896341!2d80.77130897454325!3d7.264619414108536!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae36183e742c50f%3A0x575c632dc2387088!2sVictoria%20Golf%20Resort!5e0!3m2!1sen!2slk!4v1705335272701!5m2!1sen!2slk",
+            "floor": "https://img.freepik.com/free-vector/illustration-house-planning_53876-18172.jpg?w=1060&t=st=1705332723~exp=1705333323~hmac=72c98f99916a50466eef853b484d434b3a3d555e031af85db8773496e201ca1f",
+            "bedrooms": 2,
+            "price": 399995,
+            "tenure": "Freehold",
+            "description": "Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+            "location": "Crofton Road Orpington BR6",
+            "added": {
+                "month": "September",
+                "day": 14,
+                "year": 2022
+            }
+        },
+        {
+            "id": 3,
+            "imgSrc": "https://img.freepik.com/premium-photo/modern-office-space-with-desktops-with-modern-computers-created-with-generative-ai-technology_185193-110090.jpg",
+            "name": "Cinnamon Life",
+            "category": "Office",
+            "map" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.7115757659926!2d79.84533452454117!3d6.925039668367864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2593dd3494367%3A0x661a9e702317a6c6!2sCinnamon%20Life%20Integrated%20Resort!5e0!3m2!1sen!2slk!4v1705335458041!5m2!1sen!2slk",
+            "floor": "https://www.researchgate.net/profile/Shashank_Mishra30/publication/355173321/figure/fig1/AS:1077677742141442@1633949804772/Sample-floor-plan-image-with-the-specification-of-different-room-sizes-and-furniture.jpg",
+            "bedrooms":4,
+			"price":850000,
+			"tenure":"Freehold",
+			"description":"Attractive four bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
+			"location":"Petts Wood Road, Petts Wood, Orpington",
+            "added": {
+                "month":"December",
+                "day":14,
+                "year":2022
+            }
+        },
+        {
+            "id": 4,
+            "imgSrc": "https://thumbs.dreamstime.com/b/modern-house-interior-exterior-design-46517595.jpg",
+            "name": "Sapphire Residence",
+            "category": "House",
+            "bedrooms":2,
+			"price":367800,
+            "map" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4024507.9389025043!2d76.08467767141376!3d9.918667521303362!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae259c0e7a7bd83%3A0xeb7395e5e327fe4b!2sSapphire%20Residences!5e0!3m2!1sen!2slk!4v1705336850835!5m2!1sen!2slk",
+            "floor": "https://wpmedia.roomsketcher.com/content/uploads/2021/12/14164614/RoomSketcher-House-Floor-Plans-2452430-800.jpg",
+			"tenure":"Freehold",
+			"description":"Welcome to this charming 2-bedroom, 2-bathroom home that seamlessly blends modern comforts with classic charm. Situated in a quiet neighborhood, this residence offers a perfect blend of convenience and tranquility.",
+			"location":"Maplewood Lane, Greenfield Heights, Meadowville",
+            "added": {
+                "month":"June",
+                "day":16,
+                "year":2022
+            }
+        },
+        {
+            "id": 5,
+            "original": "https://assets-news.housing.com/news/wp-content/uploads/2022/03/28143140/Difference-between-flat-and-apartment-686x400.jpg",
+            "thumbnail": "https://assets-news.housing.com/news/wp-content/uploads/2022/03/28143140/Difference-between-flat-and-apartment-686x400.jpg",
+            "imgSrc": "https://assets-news.housing.com/news/wp-content/uploads/2022/03/28143140/Difference-between-flat-and-apartment-686x400.jpg",
+            "name": "447 Luna Tower",
+            "category": "Flat",
+            "bedrooms":3,
+			"price":700000,
+            "map" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.765939292712!2d79.85931307454113!3d6.918561718447328!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2596d3f766807%3A0xa327ee97ed70ebeb!2s447%20Luna%20Tower!5e0!3m2!1sen!2slk!4v1705335584002!5m2!1sen!2slk",
+            "floor": "https://www.researchgate.net/profile/Shashank_Mishra30/publication/355173321/figure/fig1/AS:1077677742141442@1633949804772/Sample-floor-plan-image-with-the-specification-of-different-room-sizes-and-furniture.jpg",
+			"tenure":"Freehold",
+			"description":"Welcome to this inviting 3-bedroom, 2.5-bathroom home that seamlessly blends modern functionality with timeless charm. Nestled in a friendly neighborhood, this residence offers a perfect combination of spacious living, comfort, and style.",
+			"location":"123 Maple Lane, Meadowville, Sunnyshire",
+            "added": {
+                "month":"December",
+                "day":27,
+                "year":2022
+            }
+        },
+        {
+            "id": 6,
+            "imgSrc": "https://media.istockphoto.com/id/472112339/photo/office.jpg?s=612x612&w=0&k=20&c=6Sz7uwxWOvHOoQ0LSLAfjy2Rx7gSOi5EhS6g8T4t_7w=",
+            "name": "Prime Grand",
+            "category": "Office",
+            "bedrooms":3,
+			"price":721000,
+            "map" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31686.32665543389!2d79.83364827431637!3d6.915593500000021!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae25975cca4b9e1%3A0xf2193e9965cbba8!2sPRIME%20LANDS%20RESIDENCIES!5e0!3m2!1sen!2slk!4v1705335702913!5m2!1sen!2slk",
+            "floor": "https://www.researchgate.net/profile/Shashank_Mishra30/publication/355173321/figure/fig1/AS:1077677742141442@1633949804772/Sample-floor-plan-image-with-the-specification-of-different-room-sizes-and-furniture.jpg",
+			"tenure":"Freehold",
+			"description":"Welcome to this stylish 3-bedroom flat, a harmonious blend of modern design and urban convenience. The open-plan living area effortlessly connects the living, dining, and kitchen spaces, creating a seamless environment for both relaxation and entertaining guests. With a contemporary kitchen boasting sleek appliances and generous storage, culinary endeavors become a delight.",
+			"location":"456 Oak Street, Meadowview Towers, Urban City",
+            "added": {
+                "month":"January",
+                "day":2,
+                "year":2022
+            }
+        },
+        {
+            "id": 7,
+            "imgSrc": "https://thumbs.dreamstime.com/b/office-work-place-7165793.jpg",
+            "name": "Havelock IT Park",
+            "category": "Office",
+            "bedrooms":4,
+			"price":950000,
+            "map" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.0318753370857!2d79.86524551793384!3d6.886785435710116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae25bce25a86fef%3A0x114dca1eb4d2c6a9!2sHavelock%20Park!5e0!3m2!1sen!2slk!4v1705335793632!5m2!1sen!2slk",
+            "floor": "https://www.researchgate.net/profile/Shashank_Mishra30/publication/355173321/figure/fig1/AS:1077677742141442@1633949804772/Sample-floor-plan-image-with-the-specification-of-different-room-sizes-and-furniture.jpg",
+			"tenure":"Freehold",
+			"description":"Welcome to this expansive 4-bedroom flat, a perfect fusion of contemporary elegance and urban luxury. As you enter, an open-plan living area unfolds, seamlessly integrating the living, dining, and kitchen spaces. The stylish kitchen is a culinary haven, equipped with modern appliances, ample storage, and sleek countertops.",
+			"location":"456 Oak Street, Meadowview Towers, Urban City",
+            "added": {
+                "month":"August",
+                "day":21,
+                "year":2022
+            }
+        }
+    ]
+}

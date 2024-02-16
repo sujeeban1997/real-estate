@@ -1,0 +1,237 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
+*{
+  font-family: 'Poppins', sans-serif;
+}
+
+.navbar-nav a{
+  font-size: 18px;
+}
+
+.hero .banner-titles{
+  font-size: 56px;
+}
+
+.card-img{
+  height: 90vh;
+    object-fit: cover;
+}
+
+.card-img-overlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background: #000000a3;
+  left: 0;
+  padding: var(--bs-card-img-overlay-padding);
+  border-radius: var(--bs-card-inner-border-radius);
+}
+
+.top-banner h1{
+  margin : 4rem ;
+  display: flex;
+  font-weight: 600;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.1rem;
+    color: rgb(0, 0, 0);
+}
+
+.form-section {
+  padding: 3rem;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* width: 100%; */
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin: 0 12rem;
+    border-radius: 10px;
+}
+
+.house-view{
+  padding: 3rem 0;
+  display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 2.5rem;
+}
+
+.filter-buttons {
+  gap: 1rem;
+  display: flex;
+}
+
+.house-view-card {
+  width: 25rem;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    margin-bottom: 3rem;
+    border-radius: 10px;
+}
+.house-view-body {
+  padding: 1.5rem 1.5rem;
+}
+.house-view-card img{
+  width: 100%;
+  height: 20rem;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.form-section .inputField{
+  padding: 6px;
+  height: 40px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+.form-section .mb-3 {
+  margin-bottom: 1rem!important;
+  display: flex;
+  flex-direction: column;
+}
+
+.form-section button{
+  padding: 6px;
+  border-radius: 5px;
+  border: 1px solid gray;
+  background-color: black;
+  color: white;
+  height: 40px;
+  width: 100px
+}
+
+.added-date{
+  display: flex;
+  gap: 8px;
+}
+
+.property-title{
+  font-size: 1.5rem;
+    font-weight: 600;
+    font-family: poppins;
+}
+
+.property-details img{
+  width: 100%;
+}
+
+.property-details h6{
+  margin-bottom: 16px;
+  text-align: justify;
+}
+
+.property-details h2{
+  margin-bottom: 16px;
+  font-weight: 700;
+}
+
+.property-details .description{
+  font-weight: 400;
+    line-height: 24px;
+    color: gray;
+}
+
+.property-details button{
+  margin: 2rem 0;
+}
+
+.pro-sub-heading{
+  margin-bottom: 16px;
+  color: gray;
+}
+
+.fav-image-view{
+  width: 100%;
+    /* width: 20rem; */
+    height: 13.5rem;
+    object-fit: cover;
+}
+
+.fav-Items .card{
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+  margin: 2.5rem 0;
+}
+
+.fav-details {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  justify-content: center;
+  gap: 8px;
+}
+
+.tab-list-property{
+  display: flex;
+  gap: 10px;
+}
+
+.nav-tabs-property{
+  background-color: rgb(255, 255, 255);
+  width: 150px;
+  margin: 15px;
+  height: 40px;
+    border-radius: 6px;
+    transition: 0.8s;
+}
+
+.nav-tabs-property:hover{
+  background-color: black;
+  color: white;
+  transition: 0.8s;
+}
+
+.google-map-view {
+  width: 100%;
+  height: 27rem;
+}
+
+.google-map-view iframe {
+  width: 100%;
+  height: 100%;
+}
+
+.react-nav-tabs {
+  margin: 2rem 0 4rem;
+}
+
+p.empty-message-view {
+  font-size: 2rem;
+  margin-top: 3rem;
+  text-align: center;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .house-view-card {
+    width: 100%;
+  }
+  .form-section {
+    padding: 1rem;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin: 0px 1rem;
+    flex-wrap: wrap;
+}
+.top-banner h1 {
+  margin: 2rem 0;
+  font-size: 1.8rem;
+  text-align: center;
+}
+.nav-tabs-property {
+  font-size: 13px;
+}
+.fav-details {
+  padding: 2rem;
+}
+.buttons-section{
+  display: flex;
+}
+.new-card-view img{
+  width: 100%;
+}
+}
