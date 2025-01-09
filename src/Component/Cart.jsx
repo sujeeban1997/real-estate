@@ -14,8 +14,6 @@ function Cart() {
 
   return (
           <>
-          
-
           <div className='fav-Items container'>
           <div className='container'>
                     <div className="top-banner">
