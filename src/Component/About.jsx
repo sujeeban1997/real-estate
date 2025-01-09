@@ -4,7 +4,7 @@ function About() {
           return (
                     <div className="about-section">
                               <div className="top-banner">
-                                        <h1>About Us</h1>
+                                    <h1>About Us</h1>
                               </div>
                               <div className="container bottom-content">
                                         <div className="row">
